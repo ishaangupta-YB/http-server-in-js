@@ -1,0 +1,12 @@
+{
+    "name": "http-server-in-js",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "dev": "node app/main.js"
+    }, 
+    "author": "",
+    "license": "MIT",
+    "dependencies": {}
+}
